@@ -1,6 +1,8 @@
 # Data_Visualization
-Portfolio displaying projects completed in an undergraduate course, "Business Geographics and Data Visualization"   
+## Portfolio displaying projects completed in an undergraduate course, "Business Geographics and Data Visualization"   
+*Note - Tableau Files cannot be previewed in Github. See the Project descriptions below, but to view the data analysis, you must download the .twb or .twbx files* 
 
+  
 Objectives Met:  
 1. Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.  
 2. Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau  
