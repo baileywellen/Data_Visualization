@@ -6,7 +6,7 @@
   
 ## Objectives Met:  
 1. Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.  
-[Lab1](./Lab1.twb) 
+[See Lab1](./Lab1.twb) 
 2. Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau  
 3. Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.  
 4. Perform calculations in Tableau: Calculate fields and create functions in Tableau   
