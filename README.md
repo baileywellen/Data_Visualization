@@ -26,7 +26,11 @@
 **7. Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.**   
 [See my Air Quality Map Online](https://arcg.is/1rHu98)  
 
-**8. Do statistical analysis in Tableau: Use Tableau for basic statistical analysis**  
+**8. Do statistical analysis in Tableau: Use Tableau for basic statistical analysis**   
+In the first tab (Square Feet Confidence Interval), I see that the average square feet for houses with attached garages is much higher than square feet for houses with detached or no garage. This offers a possible reason why houses with attached garages had a higher sold price, and confirms our hunch that there were confounding factors behind our previous graph.
+
+In addition, we see some counties which would likely have a small p value if we ran a significance test - notably, Milwaukee and Ozaukee are outside of the confidence interval for attached garages; Kenosha, Racine, and Walworth are out of the confidence interval for detached; and Washington is well above the confidence interval for the no garage category.   
+[Download Lab8](./Lab8.twbx)  
 
 **9. Create Interactive Dashboards: Use Tableau to create a dashboard**     
 
