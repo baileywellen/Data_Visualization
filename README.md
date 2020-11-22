@@ -17,7 +17,11 @@
 [Download Lab4 ("CO2_Emissions_byState.twbx") ](./CO2_Emissions_byState.twbx)  
 
 5. Work with tables in Tableau: Be able to create and process table calculations in Tableau   
-6. Create maps in Tableau: Use Tableau to do basic geospatial analysis.   
+[Download Lab5](./Lab5.twbx)  
+
+6. Create maps in Tableau: Use Tableau to do basic geospatial analysis.  
+[Download Lab6](Lab6.twbx)  
+
 7. Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.  
 8. Do statistical analysis in Tableau: Use Tableau for basic statistical analysis   
 9. Create Interactive Dashboards: Use Tableau to create a dashboard   
