@@ -20,7 +20,7 @@
 [Download Lab5](./Lab5.twbx)  
 
 6. Create maps in Tableau: Use Tableau to do basic geospatial analysis.  
-[Download Lab6](./Lab6.twbx) or [Read the Description](./"Tableau Lab 6 Description.pdf")
+[Download Lab6](./Lab6.twbx) or [Read the Description](./Lab6_Description.pdf)
 
 7. Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.  
 8. Do statistical analysis in Tableau: Use Tableau for basic statistical analysis   
