@@ -24,6 +24,8 @@
 [Download Lab6](./Lab6.twbx) or [Read the Description](./Lab6_Description.pdf)
 
 **7. Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.**   
+[See my Air Quality Map Online](https://arcg.is/1rHu98)  
+
 **8. Do statistical analysis in Tableau: Use Tableau for basic statistical analysis**     
 **9. Create Interactive Dashboards: Use Tableau to create a dashboard**     
 **10. Publish data visualizations with Tableau: Use Tableau to make visualizations available to the public**     
