@@ -35,7 +35,7 @@
 **11. Clean and prepare data for Tableau: Clean and combine data in Tableau to prepare it for analysis. This will include some basic database concepts**   
 
 **12. Using alternate tools: Everything that we do can be done with other software. Demonstrate that by using both Tableau and another tool to produce/process the same visualization (Due to T6-Alt, ArcGIS online is NOT eligible for this objective).**     
-[See Lab7 - "fatal_police_shootings.xlsx"](./fatal_police_shootings.xlsx)  
+[See Lab7 - "fatal-police-shootings.xlsx"](./fatal-police-shootings.xlsx)  
 
 **13. Demonstrate an understanding of data context.**     
 **14. Choose an appropriate and effective visual**    
