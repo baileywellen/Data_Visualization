@@ -35,15 +35,28 @@ In addition, we see some counties which would likely have a small p value if we 
 **9. Create Interactive Dashboards: Use Tableau to create a dashboard**    
 [Download Lab 9](./Lab9.twbx)    
 
-**10. Publish data visualizations with Tableau: Use Tableau to make visualizations available to the public**     
+**10. Publish data visualizations with Tableau: Use Tableau to make visualizations available to the public**    
+None so far  
 
 **11. Clean and prepare data for Tableau: Clean and combine data in Tableau to prepare it for analysis. This will include some basic database concepts**   
+[See in class workbook](./InClass9-28.twbx)  
 
 **12. Using alternate tools: Everything that we do can be done with other software. Demonstrate that by using both Tableau and another tool to produce/process the same visualization (Due to T6-Alt, ArcGIS online is NOT eligible for this objective).**     
 [See Lab7 - "fatal-police-shootings.xlsx"](./fatal-police-shootings.xlsx)  
 
-**13. Demonstrate an understanding of data context.**     
-**14. Choose an appropriate and effective visual**    
-**15. Minimize clutter and focus the audience attention.**     
-**16. Apply elements of design to visualization**    
-**17. Create a data-based story**   
+**13. Demonstrate an understanding of data context.**  
+Final Project - "Has Air Quality Improved since the COVID-19 Pandemic?"  
+Link to Video Explanation: https://youtu.be/pEjmn405S2U  
+[Download Final Project Tableau File 1](./Final_Project.twbx)  
+[Download Final Project Tableau File 2](./Final_Joined.twbx)  
+
+**14. Choose an appropriate and effective visual**   
+*See Final Project in Objective 13*  
+**15. Minimize clutter and focus the audience attention.**   
+*See Final Project in Objective 13*    
+
+**16. Apply elements of design to visualization**  
+*See Final Project in Objective 13*  
+ 
+**17. Create a data-based story**  
+None so far 
