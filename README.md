@@ -18,10 +18,9 @@
 12. [Using alternate tools: Everything that we do can be done with other software. Demonstrate that by using both Tableau and another tool to produce/process the same visualization (Due to T6-Alt, ArcGIS online is NOT eligible for this objective).](./Class_Objectives.md#obj_12)    
 13. [Demonstrate an understanding of data context](./Class_Objectives.md#obj_13)   
 14. [Choose an appropriate and effective visual](./Class_Objectives.md#obj_14)  
-THE NEXT threE ANCHOR TAGS STILL NEED TO BE FIXED
-15. [Minimize clutter and focus the audience attention.](./Class_Objectives.md#obj_1)     
-16. [Apply elements of design to visualization](./Class_Objectives.md#obj_1)     
-17. [Create a data-based story](./Class_Objectives.md#obj_1)      
+15. [Minimize clutter and focus the audience attention.](./Class_Objectives.md#obj_15)     
+16. [Apply elements of design to visualization](./Class_Objectives.md#obj_16)     
+17. [Create a data-based story](./Class_Objectives.md#obj_17)      
 
   
 
