@@ -9,18 +9,18 @@ Add data to Tableau workbook: Bring a variety of data sources into Tableau and u
 ![Lab 2 - Connecting Data Sources](./images/Lab2_Data.PNG)  
 [Download Lab2](./tableau_workbooks/Lab2.twbx) 
 
-## Objective-3  
+## Objective 3  
 Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.    
 ![Lab 3 - Visualizations](./images/Lab3_Race.PNG)  
 ![Lab 3 - Visualizations](./images/Lab3_Weapons.PNG)  
 [Download Lab3](./tableau_workbooks/Lab3.twbx)  
 
 
-## Objective-4  
+## Objective 4  
 Perform calculations in Tableau: Calculate fields and create functions in Tableau    
 [Download Lab4 ("CO2_Emissions_byState.twbx") ](./tableau_workbooks/CO2_Emissions_byState.twbx)  
 
-## Objective-5  
+## Objective 5  
 Work with tables in Tableau: Be able to create and process table calculations in Tableau       
 [Download Lab5](./tableau_workbooks/Lab5.twbx)  
 
