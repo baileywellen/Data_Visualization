@@ -1,38 +1,6 @@
 # Class Objectives - Descriptions, Photos, and Links   
-
-[internal link](#obj-2)  
-adsg
-asg
-adfg
-
-dga
-sdg
-ar
-hw
-tj
-er6u
-wry
-aetg
-qerhw
-rtjw5yhrthwryq
-w
-gadf
-har
-
-wth
-e
-ruwheq5ryhqe5y254hw
-
-rdgarhw
-th
-sh
-fhqery2qer
-
-
-
-
-       
-## <a name = "obj_1"> </a>Objective 1  
+      
+## <a id = "obj_1"> </a>Objective 1  
 Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.
 ![Lab 1 - Simple Graph](./images/Lab1_image.PNG)  
 
@@ -43,7 +11,7 @@ Add data to Tableau workbook: Bring a variety of data sources into Tableau and u
 ![Lab 2 - Connecting Data Sources](./images/Lab2_Data.PNG)  
 [Download Lab2](./tableau_workbooks/Lab2.twbx) 
 
-## Objective 3  
+## <a id = "obj_3"> </a>Objective 3  
 Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.    
 ![Lab 3 - Visualizations](./images/Lab3_Race.PNG)  
 ![Lab 3 - Visualizations](./images/Lab3_Weapons.PNG)  
