@@ -51,12 +51,13 @@ Link to Video Explanation: https://youtu.be/pEjmn405S2U
 [Download Final Project Tableau File 2](./Final_Joined.twbx)  
 
 **14. Choose an appropriate and effective visual**   
-*See Final Project in Objective 13*  
+*See Final Project in Objective 13*   
+
 **15. Minimize clutter and focus the audience attention.**   
-*See Final Project in Objective 13*    
+*See Final Project in Objective 13*     
 
 **16. Apply elements of design to visualization**  
-*See Final Project in Objective 13*  
+*See Final Project in Objective 13*   
  
 **17. Create a data-based story**  
 None so far 
