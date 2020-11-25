@@ -41,7 +41,7 @@
      
      
        
-## <a name = "obj_1"> </a>Objective 1  
+## <a id = "obj_1"> </a>Objective 1  
 Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.
 ![Lab 1 - Simple Graph](./images/Lab1_image.PNG)  
 
