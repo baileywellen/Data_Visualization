@@ -1,29 +1,37 @@
 # Class Objectives - Descriptions, Photos, and Links   
       
 ## <a id = "obj_1"> </a>Objective 1  
-Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.
+**Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.**  
+In Tableau Lab 1, I loaded the data in, made a simple visual out of it (sum of sales by category) and saved the workbook.  
+
 ![Lab 1 - Simple Graph](./images/Lab1_image.PNG)  
 
 [Download Lab1](./tableau_workbooks/Lab1.twbx)  
 
 ## <a id = "obj_2"> </a>Objective 2  
-Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau    
+**Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau**  
+In Tableau Lab 2, I loaded data into Tableau and created an inner join on the data. This allowed me to pull the two tables -- Dealers and Transactions -- together to display more comprehensive graphs.  
 ![Lab 2 - Connecting Data Sources](./images/Lab2_Data.PNG)  
 [Download Lab2](./tableau_workbooks/Lab2.twbx) 
 
 ## <a id = "obj_3"> </a>Objective 3  
-Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.    
+**Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.**  
+In Tableau Lab 3, I used a [police fatal shootings dataset](https://www.kaggle.com/andrewmvd/police-deadly-force-usage-us?select=fatal-police-shootings-data.csv) from Kaggle. This data includes demographic information about the victim (race, gender, age, mental illnesses, etc) as well as information about the shooting (did the victim have a weapon, was the officer wearing a body cam, etc). I thought that the victim's race and what weapon they had would be interesting, so I created visualizations below to clearly display this information.  
 ![Lab 3 - Visualizations](./images/Lab3_Race.PNG)  
 ![Lab 3 - Visualizations](./images/Lab3_Weapons.PNG)  
 [Download Lab3](./tableau_workbooks/Lab3.twbx)  
 
 
 ## <a id = "obj_4"> </a>Objective 4  
-Perform calculations in Tableau: Calculate fields and create functions in Tableau    
+**Perform calculations in Tableau: Calculate fields and create functions in Tableau**  
+For this lab, I used data on [CO2 Emissions by state](https://www.eia.gov/environment/emissions/state/) from the U.S. Energy Information Administration. Because CO2 stays in the environment for a long period of time, it makes the most sense to compare cumulative emissions by state. In the image below, I show the calculation that I created (sum of CO2 Emissions by State from 2010 to 2017), and a glimpse at a possible graph that we can make to compare emissions by state over the last 7 years.  
+
+![Lab 4 - Calculations](./images/Lab4_Calculations.PNG)  
 [Download Lab4 ("CO2_Emissions_byState.twbx") ](./tableau_workbooks/CO2_Emissions_byState.twbx)  
 
 ## <a id = "obj_5"> </a>Objective 5  
-Work with tables in Tableau: Be able to create and process table calculations in Tableau       
+**Work with tables in Tableau: Be able to create and process table calculations in Tableau**  
+
 [Download Lab5](./tableau_workbooks/Lab5.twbx)  
 
 ## <a id = "obj_6"> </a>Objective 6  
