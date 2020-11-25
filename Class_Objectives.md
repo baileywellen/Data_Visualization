@@ -1,53 +1,12 @@
 # Class Objectives - Descriptions, Photos, and Links  
-
-  
-  
-    
-    LOTS OF TEXT TO TEST LINKS 
-    ----------------------------------
-    ----------------------------
-    ---------------------------------
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    
-    -
-    -
-     MORE TEXTTTTT  
-     
-     
-     
-     
        
-## <a id = "obj_1"> </a>Objective 1  
+## <a name = "obj_1"> </a>Objective 1  
 Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.
 ![Lab 1 - Simple Graph](./images/Lab1_image.PNG)  
 
 [Download Lab1](./tableau_workbooks/Lab1.twbx)  
 
-## <a id = "obj_2"> </a>Objective 2  
+## <a name = "obj_2"> </a>Objective 2  
 Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau    
 ![Lab 2 - Connecting Data Sources](./images/Lab2_Data.PNG)  
 [Download Lab2](./tableau_workbooks/Lab2.twbx) 
