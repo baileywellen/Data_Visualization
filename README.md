@@ -54,7 +54,8 @@ Final Project - "Has Air Quality Improved since the COVID-19 Pandemic?"
 ![Image of Effective Visual](./AQI_Effective_Visual.PNG)  
 *See Final Project in Objective 13*   
 
-### 15. Minimize clutter and focus the audience attention.     
+### 15. Minimize clutter and focus the audience attention.  
+![Image of Minimizing Clutter](./AQI_Minimize_Clutter.PNG)  
 *See Final Project in Objective 13*     
 
 ### 16. Apply elements of design to visualization.  
