@@ -46,7 +46,7 @@ None so far
 
 **13. Demonstrate an understanding of data context.**  
 Final Project - "Has Air Quality Improved since the COVID-19 Pandemic?"  
-Link to Video Explanation: https://youtu.be/pEjmn405S2U  
+[Watch my Project Presentation on Youtube](https://youtu.be/pEjmn405S2U)  
 [Download Final Project Tableau File 1](./Final_Project.twbx)  
 [Download Final Project Tableau File 2](./Final_Joined.twbx)  
 
