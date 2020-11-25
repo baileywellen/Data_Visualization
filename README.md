@@ -8,7 +8,7 @@
 2. [Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau](./Class_Objectives.md#obj_2)    
 3. [Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.](./Class_Objectives.md#obj_3)   
 4. [Perform calculations in Tableau: Calculate fields and create functions in Tableau](./Class_Objectives.md#obj-4)    
-5. Work with tables in Tableau: Be able to create and process table calculations in Tableau   
+5. [Work with tables in Tableau: Be able to create and process table calculations in Tableau]9./Class_Objectives.md#obj-5)      
 6. Create maps in Tableau: Use Tableau to do basic geospatial analysis.   
 7. Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.     
 8. Do statistical analysis in Tableau: Use Tableau for basic statistical analysis   
