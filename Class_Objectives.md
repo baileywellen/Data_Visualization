@@ -1,25 +1,31 @@
-## 1. Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.
+## Objective-1  
+Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.
 ![Lab 1 - Simple Graph](./images/Lab1_image.PNG)  
 
 [Download Lab1](./tableau_workbooks/Lab1.twbx)  
 
-## 2. Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau    
+## Objective-2  
+Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau    
 ![Lab 2 - Connecting Data Sources](./images/Lab2_Data.PNG)  
 [Download Lab2](./tableau_workbooks/Lab2.twbx) 
 
-## 3. Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.    
+## Objective-3  
+Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.    
 ![Lab 3 - Visualizations](./images/Lab3_Race.PNG)  
 ![Lab 3 - Visualizations](./images/Lab3_Weapons.PNG)  
 [Download Lab3](./tableau_workbooks/Lab3.twbx)  
 
 
-## 4. Perform calculations in Tableau: Calculate fields and create functions in Tableau    
+## Objective-4  
+Perform calculations in Tableau: Calculate fields and create functions in Tableau    
 [Download Lab4 ("CO2_Emissions_byState.twbx") ](./tableau_workbooks/CO2_Emissions_byState.twbx)  
 
-## 5. Work with tables in Tableau: Be able to create and process table calculations in Tableau       
+## Objective-5  
+Work with tables in Tableau: Be able to create and process table calculations in Tableau       
 [Download Lab5](./tableau_workbooks/Lab5.twbx)  
 
-## 6. Create maps in Tableau: Use Tableau to do basic geospatial analysis.     
+## Objective-6  
+Create maps in Tableau: Use Tableau to do basic geospatial analysis.     
 [Download Lab6](./tableau_workbooks/Lab6.twbx) or [Read the Description](./documents/Lab6_Description.pdf)
 
 ## 7. Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.   
