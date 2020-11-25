@@ -51,7 +51,7 @@ Final Project - "Has Air Quality Improved since the COVID-19 Pandemic?"
 [Download Final Project Tableau File 2](./Final_Joined.twbx)  
 
 **14. Choose an appropriate and effective visual**  
-![Image of Effective Visual](./AQI_Effective_Visual.png)  
+![Image of Effective Visual](./AQI_Effective_Visual.PNG)  
 *See Final Project in Objective 13*   
 
 **15. Minimize clutter and focus the audience attention.**   
