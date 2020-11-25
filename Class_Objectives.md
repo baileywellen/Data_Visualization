@@ -18,19 +18,20 @@ Create basic visualizations: Use Tableau to create a variety of visualizations a
 [Download Lab3](./tableau_workbooks/Lab3.twbx)  
 
 
-## Objective 4  
+## <a id = "obj_4"> </a>Objective 4  
 Perform calculations in Tableau: Calculate fields and create functions in Tableau    
 [Download Lab4 ("CO2_Emissions_byState.twbx") ](./tableau_workbooks/CO2_Emissions_byState.twbx)  
 
-## Objective 5  
+## <a id = "obj_5"> </a>Objective 5  
 Work with tables in Tableau: Be able to create and process table calculations in Tableau       
 [Download Lab5](./tableau_workbooks/Lab5.twbx)  
 
-## Objective-6  
+## <a id = "obj_6"> </a>Objective 6  
 Create maps in Tableau: Use Tableau to do basic geospatial analysis.     
 [Download Lab6](./tableau_workbooks/Lab6.twbx) or [Read the Description](./documents/Lab6_Description.pdf)
 
-## 7. Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.   
+## <a id = "obj_7"> </a>Objective 7
+Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.   
 [See my Air Quality Map Online](https://arcg.is/1rHu98)  
 
 ## 8. Do statistical analysis in Tableau: Use Tableau for basic statistical analysis      
