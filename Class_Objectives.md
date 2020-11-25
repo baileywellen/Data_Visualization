@@ -1,6 +1,6 @@
 # Class Objectives - Descriptions, Photos, and Links   
 
-[internal link](#obj-1)  
+[internal link](#obj-2)  
 adsg
 asg
 adfg
