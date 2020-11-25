@@ -32,7 +32,8 @@ In the first tab (Square Feet Confidence Interval), I see that the average squar
 In addition, we see some counties which would likely have a small p value if we ran a significance test - notably, Milwaukee and Ozaukee are outside of the confidence interval for attached garages; Kenosha, Racine, and Walworth are out of the confidence interval for detached; and Washington is well above the confidence interval for the no garage category.   
 [Download Lab8](./Lab8.twbx)  
 
-**9. Create Interactive Dashboards: Use Tableau to create a dashboard**     
+**9. Create Interactive Dashboards: Use Tableau to create a dashboard**    
+[Download Lab 9](./Lab9.twbx)    
 
 **10. Publish data visualizations with Tableau: Use Tableau to make visualizations available to the public**     
 
