@@ -69,15 +69,15 @@ Choose an appropriate and effective visual
 ![Image of Effective Visual](./images/AQI_Effective_Visual.PNG)  
 *See Final Project in Objective 13*   
 
-## <a id = "obj_15"> </a>Objective 15  
+## <a name = "obj_15"> </a>Objective 15  
 Minimize clutter and focus the audience attention.  
 ![Image of Minimizing Clutter](./images/AQI_Minimize_Clutter.PNG)  
 *See Final Project in Objective 13*     
 
-## <a id = "obj_16"> </a>Objective 16   
+## <a name = "obj_16"> </a>Objective 16   
 Apply elements of design to visualization.  
 *See Final Project in Objective 13*   
  
-## <a id = "obj_17"> </a>Objective 17  
+## <a name = "obj_17"> </a>Objective 17  
 Create a data-based story.  
 None so far 
