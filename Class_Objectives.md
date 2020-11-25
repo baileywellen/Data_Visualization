@@ -4,7 +4,7 @@ Install and Run Tableau: Install Tableau Desktop and be able to create, open, sa
 
 [Download Lab1](./tableau_workbooks/Lab1.twbx)  
 
-## Objective-2  
+## Objective 2  
 Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau    
 ![Lab 2 - Connecting Data Sources](./images/Lab2_Data.PNG)  
 [Download Lab2](./tableau_workbooks/Lab2.twbx) 
