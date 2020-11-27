@@ -42,7 +42,7 @@ For this lab, I created a parameter called "Years to Show" and a related Calcula
 ## <a id = "obj_6"> </a>Objective 6  
 **Create maps in Tableau: Use Tableau to do basic geospatial analysis.**  
 My work for this lab shows the Average AQI by month in 2019, with a slider to choose a specific month or all months. I made sure to set the legend/color scheme to a static range so that it does not change as we change the filter. If the scale were to change at each month, I don’t believe this interactive display would show any valuable information. However, with a static range, this worksheet shows how the air quality of the United States changes throughout the calendar year. It also shows how individual states compare to those around them and whether they follow trends throughout the year, which could help us find the right questions to ask for further analysis. This information about how air quality changes over space and time could be valuable, and is best displayed through a map like this one.  
-![Lab 6 - Mapping](./images/Lab6_AQI.twbx)  
+![Lab 6 - Mapping](./images/Lab6_AQI.PNG)  
 [Download Lab6](./tableau_workbooks/Lab6.twbx) or [Read the Description](./documents/Lab6_Description.pdf)
 
 ## <a id = "obj_7"> </a>Objective 7
@@ -51,9 +51,9 @@ In the maps below, I display the mean Air Quality Index (AQI) in the United Stat
 
 [See my Air Quality Map Online](https://arcg.is/1rHu98)   
 **Spring 2019 AQI:**  
-[2019 AQI](./images/AQI_Spring_2019.png)  
+![2019 AQI](./images/AQI_Spring_2019.png)  
 **Spring 2020 AQI:**  
-[2020 AQI](./images/AQI_Spring_2020.png)  
+![2020 AQI](./images/AQI_Spring_2020.png)  
 
 ## <a id = "obj_8"> </a>Objective 8  
 **Do statistical analysis in Tableau: Use Tableau for basic statistical analysis**      
