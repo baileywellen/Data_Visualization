@@ -43,7 +43,7 @@ For this lab, I created a `parameter` called "Years to Show" and a related `Calc
 **Create maps in Tableau: Use Tableau to do basic geospatial analysis.**  
 My work for this lab shows the Average AQI by month in 2019, with a `slider` to choose a specific month or all months. I made sure to set the legend/color scheme to a static range so that it does not change as we change the filter. If the scale were to change at each month, I don’t believe this interactive display would show any valuable information. However, with a static range, this worksheet shows how the air quality of the United States changes throughout the calendar year. It also shows how individual states compare to those around them and whether they follow trends throughout the year, which could help us find the right questions to ask for further analysis. This information about how air quality changes over space and time could be valuable, and is best displayed through a map like this one.  
 ![Lab 6 - Mapping](./images/Lab6_AQI.PNG)  
-[Download Lab6](./Tableau_Workbooks/Lab6.twbx) or [Read the Description](./documents/Lab6_Description.pdf)
+[Download Lab 6](./Tableau_Workbooks/Lab6.twbx) or [Read the Description](./documents/Lab6_Description.pdf)
 
 ## <a id = "obj_7"> </a>Objective 7
 **Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.**  
@@ -64,7 +64,7 @@ In addition, we see some counties which would likely have a small `p-value` if w
 Another feature of this workbook is that we can filter by year - using this capability, we can see whether some counties may differ from the mean in one year and not the others, or compare how the distance from the mean of individual counties may change year to year. Below is a picture of this workbook with all years (2005 - 2010) selected.  
 
 ![Lab 8 - Statistics](./images/Lab8_Stats.PNG)  
-[Download Lab8](./Tableau_Workbooks/Lab8.twbx)  
+[Download Lab 8](./Tableau_Workbooks/Lab8.twbx)  
 
 ## <a id = "obj_9"> </a>Objective 9  
 **Create Interactive Dashboards: Use Tableau to create a dashboard.** 
