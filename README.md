@@ -3,7 +3,7 @@
   
 *Note - Tableau Files cannot be previewed in Github. Please follow the links below to read the project descriptions and view previews. However, if you would like to view the entire data analysis, you must download the .twb or .twbx files*  
 
-## Objectives:
+## Objectives (15 / 17 met):
 1. [Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.](./Class_Objectives.md#obj_1)   
 2. [Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau](./Class_Objectives.md#obj_2)    
 3. [Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.](./Class_Objectives.md#obj_3)   
