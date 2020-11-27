@@ -67,7 +67,7 @@ Another feature of this workbook is that we can filter by year - using this capa
 [Download Lab 8](./Tableau_Workbooks/Lab8.twbx)  
 
 ## <a id = "obj_9"> </a>Objective 9  
-**Create Interactive Dashboards: Use Tableau to create a dashboard.** 
+**Create Interactive Dashboards: Use Tableau to create a dashboard.**   
 In this lab, I created a `dashboard` which allows users to investigate the average odometer reading by location and year. The user can filter the data using the map in the bottom left or the table in the bottom right, and it will update the averages in the bar chart on top. This dashboard is useful also because it displays the count of observations in each year and in each region. For example, if there were a subset of data with only a few extreme values that were skewing the data, this dashboard would reveal that.  
 
 ![Lab 9 - Dashboards](./images/Lab9_Dashboard.PNG)  
