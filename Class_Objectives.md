@@ -78,8 +78,12 @@ In this lab, I created a dashboard which allows users to investigate the average
 None so far  
 
 ## <a id = "obj_11"> </a>Objective 11  
-**Clean and prepare data for Tableau: Clean and combine data in Tableau to prepare it for analysis. This will include some basic database concepts**        
-[See in class workbook](./tableau_workbooks/InClass9-28.twbx)  
+**Clean and prepare data for Tableau: Clean and combine data in Tableau to prepare it for analysis. This will include some basic database concepts**   
+For my final project, I had two datasets - AQI for 2019 and AQI 2020. I first combined this data by creating a `union`, which essentially appended the 2020 data to the 2019 data. This option worked well because the two datasets had the same columns. While this method was effective for my analysis, I noticed that there were many more observations in the 2019 data than there were in the 2020 data. In order to account for this imbalance, I created another Tableau workbook, and decided that I would only consider the counties that had data in both 2019 and 2020 to see if the AQI was different. In order to achieve this goal, I created an `inner join` on the two datasets with the State Code and County Code as the primary keys. Download the files below to inspect both methods of data combination and how I applied them to this dataset.  
+  
+![Image of Join in Tableau](./images/AQI_Join.PNG)  
+[Download Final Project Tableau File 1](./tableau_workbooks/Final_Project.twbx)   
+[Download Final Project Tableau File 2](./tableau_workbooks/Final_Joined.twbx)  
 
 ## <a id = "obj_12"> </a>Objective 12
 **Using alternate tools: Everything that we do can be done with other software. Demonstrate that by using both Tableau and another tool to produce/process the same visualization**   
@@ -116,6 +120,9 @@ Next, I removed the lines on the graph. The point of this graph is not to know t
 
 ## <a id = "obj_16"> </a>Objective 16   
 **Apply elements of design to visualization.**   
+In the below graph, I applied elements of design by minimizing clutter and choosing colors strategically. I removed all axis labels because the were unnecessary, and then I chose colors that coordinated with the EPA's designations of healthy -> hazardous air quality. The choice to stay on-brand with the EPA was strategic and displays an element of design. The range of green to red will not only help individuals who are familiar with the AQI chart, but are also consistent with a typical belief that green means good and red means bad.  
+
+![Image of Design](./images/AQI_Design.PNG)  
 *See Final Project Links in Objective 13*   
  
 ## <a id = "obj_17"> </a>Objective 17  
