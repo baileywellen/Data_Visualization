@@ -13,14 +13,14 @@
 7. [Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.](./Class_Objectives.md#obj_7)       
 8. [Do statistical analysis in Tableau: Use Tableau for basic statistical analysis](./Class_Objectives.md#obj_8)   
 9. [Create Interactive Dashboards: Use Tableau to create a dashboard](./Class_Objectives.md#obj_9)   
-10. [Publish data visualizations with Tableau: Use Tableau to make visualizations available to the public](./Class_Objectives.md#obj_10)     
+10. Publish data visualizations with Tableau: Use Tableau to make visualizations available to the public (not met yet)     
 11. [Clean and prepare data for Tableau: Clean and combine data in Tableau to prepare it for analysis.](./Class_Objectives.md#obj_11)     
 12. [Using alternate tools: Everything that we do can be done with other software. Demonstrate that by using both Tableau and another tool to produce/process the same visualization (Due to T6-Alt, ArcGIS online is NOT eligible for this objective).](./Class_Objectives.md#obj_12)    
 13. [Demonstrate an understanding of data context](./Class_Objectives.md#obj_13)   
 14. [Choose an appropriate and effective visual](./Class_Objectives.md#obj_14)  
-15. [Minimize clutter and focus the audience attention.](./Class_Objectives)     
-16. [Apply elements of design to visualization](./Class_Objectives)     
-17. [Create a data-based story](./Class_Objectives)      
+15. [Minimize clutter and focus the audience attention.](./Class_Objectives#md.obj_15)     
+16. [Apply elements of design to visualization](./Class_Objectives.md#obj_16)     
+17. Create a data-based story (not met yet)        
 
   
 
