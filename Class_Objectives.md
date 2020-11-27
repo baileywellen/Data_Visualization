@@ -6,14 +6,14 @@ In Tableau Lab 1, I loaded the data in, made a simple visual out of it (sum of s
 
 ![Lab 1 - Simple Graph](./images/Lab1_image.PNG)  
 
-[Download Lab 1](./tableau_workbooks/Lab1.twbx)  
+[Download Lab 1](./Tableau_Workbooks/Lab1.twbx)  
 
 ## <a id = "obj_2"> </a>Objective 2  
 **Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau**  
 In Tableau Lab 2, I loaded data into Tableau and created an `inner join` on the data. This allowed me to pull the two tables -- Dealers and Transactions -- together to display more comprehensive graphs.  
   
 ![Lab 2 - Connecting Data Sources](./images/Lab2_Data.PNG)  
-[Download Lab 2](./tableau_workbooks/Lab2.twbx) 
+[Download Lab 2](./Tableau_Workbooks/Lab2.twbx) 
 
 ## <a id = "obj_3"> </a>Objective 3  
 **Create basic visualizations: Use Tableau to create a variety of visualizations as appropriate to for the data being used.**  
@@ -21,7 +21,7 @@ In Tableau Lab 3, I used a [police fatal shootings dataset](https://www.kaggle.c
   
 ![Lab 3 - Visualizations](./images/Lab3_Race.PNG)  
 ![Lab 3 - Visualizations](./images/Lab3_Weapons.PNG)  
-[Download Lab 3](./tableau_workbooks/Lab3.twbx)  
+[Download Lab 3](./Tableau_Workbooks/Lab3.twbx)  
 
 
 ## <a id = "obj_4"> </a>Objective 4  
@@ -29,7 +29,7 @@ In Tableau Lab 3, I used a [police fatal shootings dataset](https://www.kaggle.c
 For this lab, I used data on [CO2 Emissions by state](https://www.eia.gov/environment/emissions/state/) from the U.S. Energy Information Administration. Because CO2 stays in the environment for a long period of time, it makes the most sense to compare cumulative emissions by state. In the image below, I show the `field calculation` that I created (sum of CO2 Emissions by State from 2010 to 2017), and a glimpse at a possible graph that we can make to compare emissions by state over the last 7 years.  
    
 ![Lab 4 - Calculations](./images/Lab4_Calculations.PNG)  
-[Download Lab 4 ("CO2_Emissions_byState.twbx") ](./tableau_workbooks/CO2_Emissions_byState.twbx)  
+[Download Lab 4 ("CO2_Emissions_byState.twbx") ](./Tableau_Workbooks/CO2_Emissions_byState.twbx)  
 
 ## <a id = "obj_5"> </a>Objective 5  
 **Work with tables in Tableau: Be able to create and process table calculations in Tableau**  
@@ -37,13 +37,13 @@ For this lab, I created a `parameter` called "Years to Show" and a related `Calc
   
 ![Lab 5 - Table Calculations](./images/Lab5_Calc.PNG)  
 
-[Download Lab 5](./tableau_workbooks/Lab5.twbx)  
+[Download Lab 5](./Tableau_Workbooks/Lab5.twbx)  
  
 ## <a id = "obj_6"> </a>Objective 6  
 **Create maps in Tableau: Use Tableau to do basic geospatial analysis.**  
 My work for this lab shows the Average AQI by month in 2019, with a `slider` to choose a specific month or all months. I made sure to set the legend/color scheme to a static range so that it does not change as we change the filter. If the scale were to change at each month, I don’t believe this interactive display would show any valuable information. However, with a static range, this worksheet shows how the air quality of the United States changes throughout the calendar year. It also shows how individual states compare to those around them and whether they follow trends throughout the year, which could help us find the right questions to ask for further analysis. This information about how air quality changes over space and time could be valuable, and is best displayed through a map like this one.  
 ![Lab 6 - Mapping](./images/Lab6_AQI.PNG)  
-[Download Lab6](./tableau_workbooks/Lab6.twbx) or [Read the Description](./documents/Lab6_Description.pdf)
+[Download Lab6](./Tableau_Workbooks/Lab6.twbx) or [Read the Description](./documents/Lab6_Description.pdf)
 
 ## <a id = "obj_7"> </a>Objective 7
 **Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.**  
@@ -64,22 +64,22 @@ In addition, we see some counties which would likely have a small `p-value` if w
 Another feature of this workbook is that we can filter by year - using this capability, we can see whether some counties may differ from the mean in one year and not the others, or compare how the distance from the mean of individual counties may change year to year. Below is a picture of this workbook with all years (2005 - 2010) selected.  
 
 ![Lab 8 - Statistics](./images/Lab8_Stats.PNG)  
-[Download Lab8](./tableau_workbooks/Lab8.twbx)  
+[Download Lab8](./Tableau_Workbooks/Lab8.twbx)  
 
 ## <a id = "obj_9"> </a>Objective 9  
 **Create Interactive Dashboards: Use Tableau to create a dashboard.** 
 In this lab, I created a `dashboard` which allows users to investigate the average odometer reading by location and year. The user can filter the data using the map in the bottom left or the table in the bottom right, and it will update the averages in the bar chart on top. This dashboard is useful also because it displays the count of observations in each year and in each region. For example, if there were a subset of data with only a few extreme values that were skewing the data, this dashboard would reveal that.  
 
 ![Lab 9 - Dashboards](./images/Lab9_Dashboard.PNG)  
-[Download Lab 9](./tableau_workbooks/Lab9.twbx)    
+[Download Lab 9](./Tableau_Workbooks/Lab9.twbx)    
 
 ## <a id = "obj_11"> </a>Objective 11  
 **Clean and prepare data for Tableau: Clean and combine data in Tableau to prepare it for analysis. This will include some basic database concepts**   
 For my final project, I had two datasets - AQI for 2019 and AQI 2020. I first combined this data by creating a `union`, which essentially appended the 2020 data to the 2019 data. This option worked well because the two datasets had the same columns. While this method was effective for my analysis, I noticed that there were many more observations in the 2019 data than there were in the 2020 data. In order to account for this imbalance, I created another Tableau workbook, and decided that I would only consider the counties that had data in both 2019 and 2020 to see if the AQI was different. In order to achieve this goal, I created an `inner join` on the two datasets with the State Code and County Code as the primary keys. Download the files below to inspect both methods of data combination and how I applied them to this dataset.  
   
 ![Image of Join in Tableau](./images/AQI_Join.PNG)  
-[Download Final Project Tableau File 1](./tableau_workbooks/Final_Project.twbx)   
-[Download Final Project Tableau File 2](./tableau_workbooks/Final_Joined.twbx)  
+[Download Final Project Tableau File 1](./Tableau_Workbooks/Final_Project.twbx)   
+[Download Final Project Tableau File 2](./Tableau_Workbooks/Final_Joined.twbx)  
 
 ## <a id = "obj_12"> </a>Objective 12
 **Using alternate tools: Everything that we do can be done with other software. Demonstrate that by using both Tableau and another tool to produce/process the same visualization**   
@@ -95,8 +95,8 @@ Final Project - "Has Air Quality Improved since the COVID-19 Pandemic?"
 In this project, I had to consider the data context very seriously. I tackled this dataset in a larger project, and my team and I spent a lot of our time considering the context, impact, and consequences of our research. We had to consider the time period we are in, what the AQI measures, and whether these pollutants are significant or if the changes are notable. One example of the data context that I considered is the pollutants that are included in the AQI measurement: sulfur dioxide, nitrogen dioxide, particle pollution (PM10 and PM2.5), carbon monoxide, and ground-level ozone. The context of these pollutions is that they are short-term, meaning that they only stay in the air for a few minutes, hours or days. When compared to long-term pollutants such as CO2, a dip in pollution from these pollutants does not look quite as promising. For more information about our research project, see the repos [here](https://github.com/baileywellen/COVID-environmental-impact/).  
   
 [Watch my Project Presentation on Youtube](https://youtu.be/pEjmn405S2U)  
-[Download Final Project Tableau File 1](./tableau_workbooks/Final_Project.twbx)  
-[Download Final Project Tableau File 2](./tableau_workbooks/Final_Joined.twbx)  
+[Download Final Project Tableau File 1](./Tableau_Workbooks/Final_Project.twbx)  
+[Download Final Project Tableau File 2](./Tableau_Workbooks/Final_Joined.twbx)  
 
 ## <a id = "obj_14"> </a>Objective 14  
 **Choose an appropriate and effective visual**  
