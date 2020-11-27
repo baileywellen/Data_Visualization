@@ -1,7 +1,7 @@
 # Data_Visualization
 **Portfolio displaying projects completed in an undergraduate course, "Business Geographics and Data Visualization". Tools include Tableau, ArcGIS, and more.**   
   
-*Note - Tableau Files cannot be previewed in Github. See the Project descriptions below, but to view the data analysis, you must download the .twb or .twbx files*  
+*Note - Tableau Files cannot be previewed in Github. Please follow the links below to read the project descriptions and view previews. However, if you would like to view the entire data analysis, you must download the .twb or .twbx files*  
 
 ## Objectives:
 1. [Install and Run Tableau: Install Tableau Desktop and be able to create, open, save, and share a workbook.](./Class_Objectives.md#obj_1)   
