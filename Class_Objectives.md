@@ -10,7 +10,7 @@ In Tableau Lab 1, I loaded the data in, made a simple visual out of it (sum of s
 
 ## <a id = "obj_2"> </a>Objective 2  
 **Add data to Tableau workbook: Bring a variety of data sources into Tableau and utilize basic data processing in Tableau**  
-In Tableau Lab 2, I loaded data into Tableau and created an inner join on the data. This allowed me to pull the two tables -- Dealers and Transactions -- together to display more comprehensive graphs.  
+In Tableau Lab 2, I loaded data into Tableau and created an `inner join` on the data. This allowed me to pull the two tables -- Dealers and Transactions -- together to display more comprehensive graphs.  
   
 ![Lab 2 - Connecting Data Sources](./images/Lab2_Data.PNG)  
 [Download Lab 2](./tableau_workbooks/Lab2.twbx) 
@@ -26,14 +26,14 @@ In Tableau Lab 3, I used a [police fatal shootings dataset](https://www.kaggle.c
 
 ## <a id = "obj_4"> </a>Objective 4  
 **Perform calculations in Tableau: Calculate fields and create functions in Tableau**  
-For this lab, I used data on [CO2 Emissions by state](https://www.eia.gov/environment/emissions/state/) from the U.S. Energy Information Administration. Because CO2 stays in the environment for a long period of time, it makes the most sense to compare cumulative emissions by state. In the image below, I show the calculation that I created (sum of CO2 Emissions by State from 2010 to 2017), and a glimpse at a possible graph that we can make to compare emissions by state over the last 7 years.  
+For this lab, I used data on [CO2 Emissions by state](https://www.eia.gov/environment/emissions/state/) from the U.S. Energy Information Administration. Because CO2 stays in the environment for a long period of time, it makes the most sense to compare cumulative emissions by state. In the image below, I show the `field calculation` that I created (sum of CO2 Emissions by State from 2010 to 2017), and a glimpse at a possible graph that we can make to compare emissions by state over the last 7 years.  
    
 ![Lab 4 - Calculations](./images/Lab4_Calculations.PNG)  
 [Download Lab 4 ("CO2_Emissions_byState.twbx") ](./tableau_workbooks/CO2_Emissions_byState.twbx)  
 
 ## <a id = "obj_5"> </a>Objective 5  
 **Work with tables in Tableau: Be able to create and process table calculations in Tableau**  
-For this lab, I created a parameter called "Years to Show" and a related Calculated Field called "ShareLabels" which only displays the first n years of data, where n is equal to "Years to Show". I added a slider to the first graph (shown below) which allows the user to change the Years to Show parameter and choose how many data points she or he wants to view. In the following three worksheets, I did further analysis to determine which regions and which departments needed the most attention. You can see my rationale [in this document](./documents/Lab5_Description.pdf) , but my analysis leads me to believe that Departments G and H of the Western Division and Department F of the Midwestern division need the most attention.    
+For this lab, I created a `parameter` called "Years to Show" and a related `Calculated Field` called "ShareLabels" which only displays the first n years of data, where n is equal to "Years to Show". I added a `slider` to the first graph (shown below) which allows the user to change the Years to Show parameter and choose how many data points she or he wants in the view. In the following three worksheets, I did further analysis to determine which regions and which departments needed the most attention. You can see my rationale [in this document](./documents/Lab5_Description.pdf), but my analysis leads me to believe that Departments G and H of the Western Division and Department F of the Midwestern division need the most attention.    
   
 ![Lab 5 - Table Calculations](./images/Lab5_Calc.PNG)  
 
@@ -41,13 +41,13 @@ For this lab, I created a parameter called "Years to Show" and a related Calcula
  
 ## <a id = "obj_6"> </a>Objective 6  
 **Create maps in Tableau: Use Tableau to do basic geospatial analysis.**  
-My work for this lab shows the Average AQI by month in 2019, with a slider to choose a specific month or all months. I made sure to set the legend/color scheme to a static range so that it does not change as we change the filter. If the scale were to change at each month, I don’t believe this interactive display would show any valuable information. However, with a static range, this worksheet shows how the air quality of the United States changes throughout the calendar year. It also shows how individual states compare to those around them and whether they follow trends throughout the year, which could help us find the right questions to ask for further analysis. This information about how air quality changes over space and time could be valuable, and is best displayed through a map like this one.  
+My work for this lab shows the Average AQI by month in 2019, with a `slider` to choose a specific month or all months. I made sure to set the legend/color scheme to a static range so that it does not change as we change the filter. If the scale were to change at each month, I don’t believe this interactive display would show any valuable information. However, with a static range, this worksheet shows how the air quality of the United States changes throughout the calendar year. It also shows how individual states compare to those around them and whether they follow trends throughout the year, which could help us find the right questions to ask for further analysis. This information about how air quality changes over space and time could be valuable, and is best displayed through a map like this one.  
 ![Lab 6 - Mapping](./images/Lab6_AQI.PNG)  
 [Download Lab6](./tableau_workbooks/Lab6.twbx) or [Read the Description](./documents/Lab6_Description.pdf)
 
 ## <a id = "obj_7"> </a>Objective 7
 **Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.**  
-In the maps below, I display the mean Air Quality Index (AQI) in the United States for March-May 2019 with March-May 2020. In ArcGIS, I interpolated this data across the United States to estimate air quality in locations for which we have no data.    
+In the maps below, I display the mean Air Quality Index (AQI) in the United States for March-May 2019 with March-May 2020. In ArcGIS, I used the `interpolate` feature to expand this data across the United States. Using this, I was able to estimate air quality in locations for which we have no data.    
 
 [See my Air Quality Map Online](https://arcg.is/1rHu98)   
 **Spring 2019 AQI:**  
@@ -57,9 +57,9 @@ In the maps below, I display the mean Air Quality Index (AQI) in the United Stat
 
 ## <a id = "obj_8"> </a>Objective 8  
 **Do statistical analysis in Tableau: Use Tableau for basic statistical analysis**      
-In the first tab (Square Feet Confidence Interval), I see that the average square feet for houses with attached garages is much higher than square feet for houses with detached or no garage. This offers a possible reason why houses with attached garages had a higher sold price, and confirms our hunch that there were confounding factors behind our previous graph.
+In the first tab (Square Feet Confidence Interval), I see that the average square feet for houses with attached garages is much higher than square feet for houses with detached or no garage. This offers a possible reason why houses with attached garages had a higher sold price, and confirms our hunch that there were confounding factors behind our previous graph, which showed that attached garages correlated with higher prices.
 
-In addition, we see some counties which would likely have a small p value if we ran a significance test - notably, Milwaukee and Ozaukee are outside of the confidence interval for attached garages; Kenosha, Racine, and Walworth are out of the confidence interval for detached; and Washington is well above the confidence interval for the no garage category. The 95% confidence interval tool in Tableau helps us to visualize and estimate a significance test.  
+In addition, we see some counties which would likely have a small `p-value` if we ran a significance test - notably, Milwaukee and Ozaukee are outside of the confidence interval for attached garages; Kenosha, Racine, and Walworth are out of the confidence interval for detached; and Washington is well above the confidence interval for the no garage category. The `95% confidence interval` tool in Tableau helps us to visualize and estimate a significance test.  
 
 Another feature of this workbook is that we can filter by year - using this capability, we can see whether some counties may differ from the mean in one year and not the others, or compare how the distance from the mean of individual counties may change year to year. Below is a picture of this workbook with all years (2005 - 2010) selected.  
 
@@ -68,7 +68,7 @@ Another feature of this workbook is that we can filter by year - using this capa
 
 ## <a id = "obj_9"> </a>Objective 9  
 **Create Interactive Dashboards: Use Tableau to create a dashboard.** 
-In this lab, I created a dashboard which allows users to investigate the average odometer reading by location and year. The user can filter the data using the map in the bottom left or the table in the bottom right, and it will update the averages in the bar chart on top. This dashboard is useful also because it displays the count of observations in each year and in each region. For example, if there were a subset of data with only a few extreme values that were skewing the data, this dashboard would reveal that.  
+In this lab, I created a `dashboard` which allows users to investigate the average odometer reading by location and year. The user can filter the data using the map in the bottom left or the table in the bottom right, and it will update the averages in the bar chart on top. This dashboard is useful also because it displays the count of observations in each year and in each region. For example, if there were a subset of data with only a few extreme values that were skewing the data, this dashboard would reveal that.  
 
 ![Lab 9 - Dashboards](./images/Lab9_Dashboard.PNG)  
 [Download Lab 9](./tableau_workbooks/Lab9.twbx)    
