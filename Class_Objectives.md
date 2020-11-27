@@ -73,10 +73,6 @@ In this lab, I created a dashboard which allows users to investigate the average
 ![Lab 9 - Dashboards](./images/Lab9_Dashboard.PNG)  
 [Download Lab 9](./tableau_workbooks/Lab9.twbx)    
 
-## <a id = "obj_10"> </a>Objective 10  
-**Publish data visualizations with Tableau: Use Tableau to make visualizations available to the public**        
-None so far  
-
 ## <a id = "obj_11"> </a>Objective 11  
 **Clean and prepare data for Tableau: Clean and combine data in Tableau to prepare it for analysis. This will include some basic database concepts**   
 For my final project, I had two datasets - AQI for 2019 and AQI 2020. I first combined this data by creating a `union`, which essentially appended the 2020 data to the 2019 data. This option worked well because the two datasets had the same columns. While this method was effective for my analysis, I noticed that there were many more observations in the 2019 data than there were in the 2020 data. In order to account for this imbalance, I created another Tableau workbook, and decided that I would only consider the counties that had data in both 2019 and 2020 to see if the AQI was different. In order to achieve this goal, I created an `inner join` on the two datasets with the State Code and County Code as the primary keys. Download the files below to inspect both methods of data combination and how I applied them to this dataset.  
@@ -125,6 +121,3 @@ In the below graph, I applied elements of design by minimizing clutter and choos
 ![Image of Design](./images/AQI_Design.PNG)  
 *See Final Project Links in Objective 13*   
  
-## <a id = "obj_17"> </a>Objective 17  
-Create a data-based story.  
-None so far 
