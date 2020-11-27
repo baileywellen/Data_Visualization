@@ -47,7 +47,7 @@ My work for this lab shows the Average AQI by month in 2019, with a slider to ch
 
 ## <a id = "obj_7"> </a>Objective 7
 **Mapping with ArcGIS online: Use the online version of ESRI's ArcGIS for basic geospatial processing.**  
-In the maps below, I display the mean Air Quality Index (AQI) in the United States for March-May 2019 with March-May 2020. In ArcGIS, I interpolated this data across the United States to estimate what the air quality is in between the observations points that we have.  
+In the maps below, I display the mean Air Quality Index (AQI) in the United States for March-May 2019 with March-May 2020. In ArcGIS, I interpolated this data across the United States to estimate air quality in locations for which we have no data.    
 
 [See my Air Quality Map Online](https://arcg.is/1rHu98)   
 **Spring 2019 AQI:**  
@@ -67,41 +67,56 @@ Another feature of this workbook is that we can filter by year - using this capa
 [Download Lab8](./tableau_workbooks/Lab8.twbx)  
 
 ## <a id = "obj_9"> </a>Objective 9  
-Create Interactive Dashboards: Use Tableau to create a dashboard.      
+**Create Interactive Dashboards: Use Tableau to create a dashboard.** 
+In this lab, I created a dashboard which allows users to investigate the average odometer reading by location and year. The user can filter the data using the map in the bottom left or the table in the bottom right, and it will update the averages in the bar chart on top. This dashboard is useful also because it displays the count of observations in each year and in each region. For example, if there were a subset of data with only a few extreme values that were skewing the data, this dashboard would reveal that.  
+
+![Lab 9 - Dashboards](./images/Lab9_Dashboard.PNG)  
 [Download Lab 9](./tableau_workbooks/Lab9.twbx)    
 
 ## <a id = "obj_10"> </a>Objective 10  
-Publish data visualizations with Tableau: Use Tableau to make visualizations available to the public      
+**Publish data visualizations with Tableau: Use Tableau to make visualizations available to the public**        
 None so far  
 
 ## <a id = "obj_11"> </a>Objective 11  
-Clean and prepare data for Tableau: Clean and combine data in Tableau to prepare it for analysis. This will include some basic database concepts      
+**Clean and prepare data for Tableau: Clean and combine data in Tableau to prepare it for analysis. This will include some basic database concepts**        
 [See in class workbook](./tableau_workbooks/InClass9-28.twbx)  
 
 ## <a id = "obj_12"> </a>Objective 12
-Using alternate tools: Everything that we do can be done with other software. Demonstrate that by using both Tableau and another tool to produce/process the same visualization (Due to T6-Alt, ArcGIS online is NOT eligible for this objective).       
-[See Lab7 - "fatal-police-shootings.xlsx"](./documents/fatal-police-shootings.xlsx)  
+**Using alternate tools: Everything that we do can be done with other software. Demonstrate that by using both Tableau and another tool to produce/process the same visualization**   
+In this Lab, I replicated my Lab 3 visualization using Excel. I created a bar chart displaying the frequency of each race in the dataset. As Lab 3 did, this visualization compares fatal police shooting occurence by race of the victim. 
+
+![Lab 7 - Excel](./images/Lab7_Excel.PNG)  
+[Download Lab 7 - "fatal-police-shootings.xlsx"](./documents/fatal-police-shootings.xlsx)  
 
 ## <a id = "obj_13"> </a>Objective 13  
-Demonstrate an understanding of data context.  
-Final Project - "Has Air Quality Improved since the COVID-19 Pandemic?"  
+**Demonstrate an understanding of data context.**  
+Final Project - "Has Air Quality Improved since the COVID-19 Pandemic?"   
+
+In this project, I had to consider the data context very seriously. I tackled this dataset in a larger project, and my team and I spent a lot of our time considering the context, impact, and consequences of our research. We had to consider the time period we are in, what the AQI measures, and whether these pollutants are significant or if the changes are notable. One example of the data context that I considered is the pollutants that are included in the AQI measurement: sulfur dioxide, nitrogen dioxide, particle pollution (PM10 and PM2.5), carbon monoxide, and ground-level ozone. The context of these pollutions is that they are short-term, meaning that they only stay in the air for a few minutes, hours or days. When compared to long-term pollutants such as CO2, a dip in pollution from these pollutants does not look quite as promising. For more information about our research project, see the repos [here](https://github.com/baileywellen/COVID-environmental-impact/).  
+  
 [Watch my Project Presentation on Youtube](https://youtu.be/pEjmn405S2U)  
 [Download Final Project Tableau File 1](./tableau_workbooks/Final_Project.twbx)  
 [Download Final Project Tableau File 2](./tableau_workbooks/Final_Joined.twbx)  
 
 ## <a id = "obj_14"> </a>Objective 14  
-Choose an appropriate and effective visual   
+**Choose an appropriate and effective visual**  
+The graph shown below is an effective visual for the point that I was trying to prove in my final project - that AQI is lower in 2020 than it was in 2019. In this visualization, you can clearly see that the line for 2019 is higher than that of 2020 at all times. Furthermore, these lines are being compared at the same time of year (January 2019 is compared to January 2020, February 2019 is compared to February 2020, etc), so we know that temperature and seasonal changes are not to blame for this decrease. I believe that the layout of this visualization is effective in conveying this message to my audience.   
+
 ![Image of Effective Visual](./images/AQI_Effective_Visual.PNG)  
-*See Final Project in Objective 13*   
+*See Final Project Links in Objective 13*   
 
 ## <a id = "obj_15"> </a>Objective 15  
-Minimize clutter and focus the audience attention.  
+**Minimize clutter and focus the audience attention.**  
+I took several steps to minimize clutter in the graph below, which I created for my final project.  
+First, I hid the x-axis label, which previously said "MONTH(Date)". I found  this label to be unhelpful because the visualization speaks for itself - the separation of year on the top, along with the months on the bottom, make it clear that it is displaying the month.  
+Next, I removed the lines on the graph. The point of this graph is not to know the exact AQI of each month, but to notice the difference between 2019 and 2020. For this purpose, the gridlines or reference lines are unhelpful. Instead, taking out the lines helps to focus the audience attention on the difference between the two years' averages rather than distracting them with extra lines.
+
 ![Image of Minimizing Clutter](./images/AQI_Minimize_Clutter.PNG)  
-*See Final Project in Objective 13*     
+*See Final Project Links in Objective 13*     
 
 ## <a id = "obj_16"> </a>Objective 16   
-Apply elements of design to visualization.  
-*See Final Project in Objective 13*   
+**Apply elements of design to visualization.**   
+*See Final Project Links in Objective 13*   
  
 ## <a id = "obj_17"> </a>Objective 17  
 Create a data-based story.  
